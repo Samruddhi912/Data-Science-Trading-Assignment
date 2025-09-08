@@ -1,0 +1,6 @@
+# Data Source for historical_data.csv
+
+The file `historical_data.csv` is too large for a direct GitHub upload.
+
+Please download it from the original source:
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
